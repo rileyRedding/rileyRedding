@@ -1,0 +1,26 @@
+* {
+   text-align: center; 
+
+
+    text-align: center;
+
+ 
+    text-align: center; }
+    .counter-display {
+      color: grey;
+      background-color: green;
+      font-size: 288px;
+      margin: -50px;
+
+    }
+   .counter-plus {
+      color: black;
+      background-color: green;
+      
+      
+   }
+   .counter-minus {
+      color: black;
+      background-color: red;
+
+   }
